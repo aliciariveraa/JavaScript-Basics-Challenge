@@ -19,3 +19,6 @@ accountBalance *= 2.05;
 console.log(accountBalance);
 accountBalance /= 2; 
 console.log(accountBalance); 
+let customerName = "Alice";
+let welcomeMessage = "Hello, " + customerName + "! Welcome to our store.";
+console.log(welcomeMessage);
